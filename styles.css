@@ -5,8 +5,6 @@ body{
     flex-direction: column;
     font-family:'Roboto',sans-serif;
 }
-
-
 header{
     background-color: #343A40;
     display: flex;
@@ -14,7 +12,7 @@ header{
     width: 100%;
     min-width: 100vh;
 }
-.first{
+.First{
     margin-right: auto;
     margin-left: 30px;
     display: flex;
@@ -22,18 +20,18 @@ header{
     gap:5px;
     flex: 0 1 350px;
 }
-.second{
+.Second{
     gap: 20px;
 }
-.second,.nav {
+.Second,.nav {
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.nav > p {
+.Nav > p {
     margin-left: 10px;
 }
-.third {
+.Third {
     margin-right: 30px;
     display: flex;
     margin-left: auto;
@@ -44,7 +42,7 @@ header{
 #designation {
     opacity: .6;
 }
-.user > p {
+.User > p {
     margin: 0;
 }
 #fourth{
@@ -53,19 +51,19 @@ header{
     margin-left: auto;
     margin-right: auto;
 }
-.fifth{
+.Fifth{
     display: flex;
     flex: 1;
     justify-content: start;
     flex-wrap: wrap;
 }
-.sixth{
+.Sixth{
     display: flex;
     padding-left: 100px;
     padding-right: 100px;
     gap: 30px;
 }
-.grave{
+.Grave{
     margin-left: 43px;
     margin-top: 12px;
     margin-bottom: 12px;
@@ -73,14 +71,14 @@ header{
     width: 32px;
     
 }
-.header{
+.Header{
     display: flex;
     flex-direction: row;
     width: 1366px;
     height: 65px;
     background-color: #343A40;
     }
-.logo{
+.Logo{
     margin-left: 43px;
     margin-top: 12px;
     margin-bottom: 12px;
@@ -92,12 +90,12 @@ h2{
     font-weight: 700;
     margin: 16px;
     }
-.payments{
+.Payments{
     margin-left: 32px;
     margin-top: 18px;
     margin-bottom: 18px;
     }
-.reports{
+.Reports{
     margin-left: 32px;
     margin-top: 18px;
     margin-bottom: 18px;
@@ -117,7 +115,7 @@ h1{
     margin-left: 24px;
     margin-right: 24px;
     }
-.john{
+.John{
     padding: 12px;
     border: 0px solid black;
     border-radius: 100px;
@@ -148,7 +146,7 @@ h1{
     width: 91px;
     height: 40px;
 } 
-.main{
+.Main{
     margin-left: 50px;
     margin-top: 50px;
 }
@@ -187,7 +185,7 @@ li{
     font-size: 32px;
     margin-left: 10px;
 }
-.list{
+.List{
     margin-left: 5px;
 }
 #grave{
@@ -211,12 +209,12 @@ li{
 #Buried > img{
     margin-right: 10px;
 }
-.pn{
+.Pn{
     margin-left: 12px;
     margin-bottom: 0;
     margin-top: 12px; 
 }
-.mp{
+.Mp{
     margin-top: 0;
     margin-left: 12px; 
 }
